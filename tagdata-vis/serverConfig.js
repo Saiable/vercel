@@ -1,3 +1,3 @@
 export default {
-    "baseURL": "https://pro.mindcons.cn/tagdata-vis/"
+    "baseURL": "https://pro.mindcons.cn/"
 }
